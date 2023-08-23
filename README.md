@@ -1,5 +1,6 @@
 # Joget-Progress-Bar-plugin
-![download](https://github.com/hassamtahir/Joget-Progress-Bar-plugin/assets/58023371/48d76f39-ad6b-43db-9acc-bd052a07c6b9)
+![image](https://github.com/hassamtahir/Joget-Progress-Bar-plugin/assets/58023371/9896d302-9048-4b90-bb5d-4a1a9f99d4a3)
+
 
 With Joget Workflow, users can design and build custom applications without the need for extensive coding knowledge. It provides a visual interface for defining processes, forms, data models, and user interfaces, making it easier for both developers and non-developers to collaborate on application development.
 
